@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hkilu.github.io/sYH/sitemap.sYH.gz
